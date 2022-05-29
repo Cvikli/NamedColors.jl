@@ -20,9 +20,9 @@ const green1 = RGBA(0.,1.,0.,1.)
 const tomato = RGBA(1.,0.39,0.28,1.)
 const magenta = RGBA(1.,0.,1.,1.)
 const purple1 = RGBA(0.61,0.19,1.,1.)
+const moccasin=RGBA(1.0, 0.89, 0.71)
 
-
-export black, red, aqua, blue, orange, yellow, green, green1, tomato, magenta, purple1
+export black, red, aqua, blue, orange, yellow, green, green1, tomato, magenta, purple1, moccasin
 
 # Unexported
 # Whites
@@ -448,7 +448,7 @@ papayawhip=RGBA(1.0, 0.94, 0.84)
 blanchedalmond=RGBA(1.0, 0.92, 0.8)
 bisque=RGBA(1.0, 0.89, 0.77)
 bisque1=RGBA(1.0, 0.89, 0.77)
-moccasin=RGBA(1.0, 0.89, 0.71)
+# moccasin=RGBA(1.0, 0.89, 0.71)
 peachpuff=RGBA(1.0, 0.85, 0.73)
 peachpuff1=RGBA(1.0, 0.85, 0.73)
 burlywood1=RGBA(1.0, 0.83, 0.61)
