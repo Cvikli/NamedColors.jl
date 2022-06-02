@@ -12,6 +12,7 @@ const black = RGBA(0.2,0.2,0.2,1.)
 const red = RGBA(1.,0.,0.,1.)
 const firebrick1 = RGBA(1.0, 0.19, 0.19,1.)
 const aqua = RGBA(0.,1.,1.,1.)
+const cyan2 = RGBA(0.0, 0.93, 0.93)
 const blue = RGBA(0.4,0.4,1.,1.)
 const orange = RGBA(1.,0.65,0.,1.)
 const yellow = RGBA(1.,1.,0.,1.)
@@ -22,7 +23,7 @@ const magenta = RGBA(1.,0.,1.,1.)
 const purple1 = RGBA(0.61,0.19,1.,1.)
 const moccasin=RGBA(1.0, 0.89, 0.71)
 
-export black, red, aqua, blue, orange, yellow, green, green1, tomato, magenta, purple1, moccasin
+export black, red, aqua, cyan2, blue, orange, yellow, green, green1, tomato, magenta, purple1, moccasin
 
 # Unexported
 # Whites
@@ -245,7 +246,7 @@ cyan1=RGBA(0.0, 1.0, 1.0)
 paleturquoise=RGBA(0.69, 0.93, 0.93)
 paleturquoise2=RGBA(0.68, 0.93, 0.93)
 turquoise1=RGBA(0.0, 0.96, 1.0)
-cyan2=RGBA(0.0, 0.93, 0.93)
+# cyan2=RGBA(0.0, 0.93, 0.93)
 turquoise2=RGBA(0.0, 0.9, 0.93)
 turquoise=RGBA(0.25, 0.88, 0.82)
 lightcyan3=RGBA(0.71, 0.8, 0.8)
