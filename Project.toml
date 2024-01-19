@@ -1,6 +1,6 @@
 name = "NamedColors"
 uuid = "4f9df2fd-dbc4-44d0-aefe-cb0b7e142d49"
-authors = ["Cvikli havlikmarcell@gmail.com"]
+authors = ["Marcell <havlikmarcell@gmail.com>"]
 version = "0.1.0"
 
 [deps]
